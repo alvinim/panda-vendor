@@ -1,1 +1,4 @@
 *.sw?
+
+# Except flash files
+!*.swf
